@@ -260,3 +260,11 @@ npm run lint       # run oxlint
 - **Forecasting:** exponentially weighted demand estimation, linear trend analysis, replenishment-aware stockout projection, regional risk aggregation
 
 ---
+
+## 👥 Meet the Team (Team Name)
+
+* **[Sumukh](https://github.com/sumukhsjec2029):** System Architecture & Backend Logic
+* **[Apeksha](https://github.com/Apzrai):** Frontend Development & UI/UX Design
+* **[Nireeksha](https://github.com/nireekshashettyy):** Geospatial Integration & Data Modeling
+
+---
