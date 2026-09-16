@@ -2,7 +2,7 @@
 
 From one empty shelf to regional shortage - detect it early, understand how it could spread , and act before it becomes a crisis 
 
- 🌐Live Demo App: https://dawai-setuu.netlify.app/
+ 🌐Live Demo App: https://dawai-setu.netlify.app/
 ---
 
 ## 📌 Problem Statement
