@@ -265,8 +265,8 @@ npm run lint       # run oxlint
 
 ## 👥 Meet the Team (BeachCoders)
 
-* **[Sumukh](https://github.com/sumukhsjec2029):** System Architecture & Backend Logic
 * **[Apeksha](https://github.com/Apzrai):** Frontend Development & UI/UX Design
+* **[Sumukh](https://github.com/sumukhsjec2029):** System Architecture & Backend Logic
 * **[Nireeksha](https://github.com/nireekshashettyy):** Geospatial Integration & Data Modeling
 
 ---
