@@ -5,6 +5,7 @@ From one empty shelf to regional shortage - detect it early, understand how it c
  🌐Live Demo App: https://dawai-setu.netlify.app/
 ---
 
+
 ## 📌 Problem Statement
 
 A healthcare facility running out of an essential medicine may initially look like an isolated inventory problem, but declining stock at several facilities can be an early signal of a wider supply disruption.
@@ -26,6 +27,11 @@ The challenge is therefore not only to identify where medicine is unavailable to
 ---
 
 ## 💡 Solution Overview
+  ## 📸 System Previews
+
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/87153408-d1bc-4540-bf0c-c52cf82ae931" />
+
+<img width="1264" height="764" alt="image" src="https://github.com/user-attachments/assets/814405bb-6881-4a2f-a72a-a94ebe93d1a4" />
 
 ### Why DAWAI-SETU?
 
