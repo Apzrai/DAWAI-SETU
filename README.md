@@ -220,8 +220,8 @@ with facility inventory, demand history, replenishment, and transfer records per
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/dawai-setu.git
-cd dawai-setu
+git clone https://github.com/Apzrai/DAWAI-SETU.git
+cd DAWAI-SETU
 npm install
 npm run dev
 ```
