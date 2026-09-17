@@ -31,7 +31,8 @@ The challenge is therefore not only to identify where medicine is unavailable to
 
 <img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/87153408-d1bc-4540-bf0c-c52cf82ae931" />
 
-<img width="1892" height="997" alt="image" src="https://github.com/user-attachments/assets/d7065839-f6fa-4279-aa60-55541cdb4998" />
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/47a40d7a-1e1a-4050-b7f5-49a059fa3e0b" />
+
  
 <img width="1264" height="764" alt="image" src="https://github.com/user-attachments/assets/814405bb-6881-4a2f-a72a-a94ebe93d1a4" />
 
