@@ -31,8 +31,8 @@ The challenge is therefore not only to identify where medicine is unavailable to
 
 <img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/87153408-d1bc-4540-bf0c-c52cf82ae931" />
 
-<img width="1280" height="737" alt="image" src="https://github.com/user-attachments/assets/e4cb8ea3-3029-424b-b764-b2b505d41efb" />
-
+<img width="1892" height="997" alt="image" src="https://github.com/user-attachments/assets/d7065839-f6fa-4279-aa60-55541cdb4998" />
+ 
 <img width="1264" height="764" alt="image" src="https://github.com/user-attachments/assets/814405bb-6881-4a2f-a72a-a94ebe93d1a4" />
 
 ### Why DAWAI-SETU?
